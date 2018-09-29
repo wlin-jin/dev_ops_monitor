@@ -41,7 +41,6 @@ class MonitorEip(object):
         while True:
             line = p.stdout.readline()
             logger.info(line)
-            print line
             if not line:
                 break
             result = re.search(r"\s(\d+)\%\spacket\sloss", line)

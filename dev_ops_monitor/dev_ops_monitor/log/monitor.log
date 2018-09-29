@@ -1,3 +1,9 @@
 2018-09-29 13:54:38,365 INFO     E:\document\code\dev_ops_monitor\dev_ops_monitor\dev_ops_monitor\monitor_ip_alive\service\MonitorEip.py[line:74] start batch ping
 2018-09-29 13:54:39,551 INFO     E:\document\code\dev_ops_monitor\dev_ops_monitor\dev_ops_monitor\monitor_ip_alive\service\MonitorEip.py[line:79] end batch ping
 2018-09-29 13:54:39,552 INFO     C:\Python27\lib\site-packages\django\core\servers\basehttp.py[line:124] "GET /monitor/monitor_ip/eip_monitor?ips=123.1.1.1,2.2.2.2 HTTP/1.1" 200 83
+2018-09-29 13:55:29,450 INFO     E:\document\code\dev_ops_monitor\dev_ops_monitor\dev_ops_monitor\monitor_ip_alive\service\MonitorEip.py[line:75] start batch ping
+2018-09-29 13:55:31,348 INFO     E:\document\code\dev_ops_monitor\dev_ops_monitor\dev_ops_monitor\monitor_ip_alive\service\MonitorEip.py[line:80] end batch ping
+2018-09-29 13:55:31,351 INFO     C:\Python27\lib\site-packages\django\core\servers\basehttp.py[line:124] "GET /monitor/monitor_ip/eip_monitor?ips=123.1.1.1,2.2.2.2 HTTP/1.1" 200 83
+2018-09-29 14:09:20,812 INFO     E:\document\code\dev_ops_monitor\dev_ops_monitor\dev_ops_monitor\monitor_ip_alive\service\MonitorEip.py[line:75] start batch ping
+2018-09-29 14:09:22,971 INFO     E:\document\code\dev_ops_monitor\dev_ops_monitor\dev_ops_monitor\monitor_ip_alive\service\MonitorEip.py[line:80] end batch ping
+2018-09-29 14:09:22,974 INFO     C:\Python27\lib\site-packages\django\core\servers\basehttp.py[line:124] "GET /monitor/monitor_ip/eip_monitor?ips=123.1.1.1,2.2.2.2 HTTP/1.1" 200 55
